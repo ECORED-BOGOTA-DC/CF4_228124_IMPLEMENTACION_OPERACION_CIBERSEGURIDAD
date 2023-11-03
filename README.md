@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Diseño y documentación de controles de ciberseguridad**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-bogota-dc.github.io/CF4_228124_IMPLEMENTACION_OPERACION_CIBERSEGURIDAD/](https://ecored-bogota-dc.github.io/CF4_228124_IMPLEMENTACION_OPERACION_CIBERSEGURIDAD/)
 
 #
 
