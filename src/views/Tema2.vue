@@ -332,16 +332,13 @@
       .py-4.py-md-5(titulo="Entradas" :icono="require('@/assets/template/tema-2-10.svg')")
         .row.p-4
           .col-md-8.mb-3
-            .h3 Entradas
-            p Los objetivos establecidos en la estrategia, la situación o estado actual del proceso de seguridad digital, la situación o estado deseados del proceso de seguridad digital y, desde luego, los activos de Información. 
-            p.mt-3 Los objetivos establecidos en la estrategia, la situación o estado actual del proceso de seguridad digital, la situación o estado deseados del proceso de seguridad digital y, desde luego, los activos de Información.
+            p Son entradas de la definición y ejecución del plan de acción: Los objetivos establecidos en la estrategia, la situación o estado actual del proceso de seguridad digital, la situación o estado deseados del proceso de seguridad digital y, desde luego, los activos de Información.
           .col-md-4
             figure.text-center
               img(src="@/assets/curso/tema2/9.svg" style="max-width:200px;display:inline;")
       .py-4.py-md-5(titulo="Salidas" :icono="require('@/assets/template/tema-2-11.svg')")
         .row.p-4
           .col-md-8.mb-3
-            .h3 Salidas
             ul.lista-ul
               li.d-flex
                 i.fas.fa-check
@@ -358,8 +355,7 @@
       .py-4.py-md-5(titulo="Actividades" :icono="require('@/assets/template/tema-2-12.svg')")
         .row.p-4
           .col-md-8.mb-3
-            .h3 Actividades
-            ul.lista-ul
+            ul.lista-ul.mb-5
               li.d-flex
                 i.fas.fa-check
                 | Evaluar, para cada una de las acciones determinadas en la estrategia, recursos solicitados y el costo para su ejecución. 
@@ -370,7 +366,7 @@
                 i.fas.fa-check
                 | Identificar limitaciones.
             .h4 ¡Importante!
-            .h4.mt-4 La actividad “Identificar limitaciones” supone que estas pueden ser:
+            .p.mt-4 La actividad #[b “Identificar limitaciones”] supone que estas pueden ser:
             ul.lista-ul.mt-3
               li.d-flex
                 i.fas.fa-check

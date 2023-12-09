@@ -143,7 +143,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/material.pdf',
+        download: 'downloads/228124_CF04_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -159,26 +159,26 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema: '2. Pasos para el diseño de controles de seguridad',
       referencia:
-        'Instituto Colombiano de Normas Técnicas y Certificación [ICONTEC]. (2011). Gestión del riesgo. Principios y directrices (NTC-ISO 3100).',
+        'Instituto Colombiano de Normas Técnicas y Certificación [ICONTEC]. (2011). <i>Gestión del riesgo. Principios y directrices (NTC-ISO 3100)</i>.',
       tipo: 'Norma técnica',
       link:
-        'http://simudatsalud-risaralda.co/normatividad_inv9/normas_tecnicas/NTC-ISO31000_Gestion_del_riesgo.pdf',
+        'https://www.unipamplona.edu.co/unipamplona/portalIG/home_224/recursos/general/11072023/ntc-iso31000_gestionriesgo.pdf',
     },
     {
-      tema: '',
+      tema: '2. Pasos para el diseño de controles de seguridad',
       referencia:
-        'Organización Internacional de Normalización [ISO]. (2013). Information Technology – Security Techniques – Code of Practices for Information Security Controls (ISO 27002:2013).',
+        'Organización Internacional de Normalización [ISO]. (2013). <i>Information Technology – Security Techniques – Code of Practices for Information Security Controls (ISO 27002:2013)</i>.',
       tipo: 'Norma técnica',
       link: 'https://www.iso.org/standard/54533.html',
     },
     {
-      tema: '',
+      tema: '6. Generalidades de los activos de información',
       referencia:
-        'Organización Internacional de Normalización [ISO]. (2013). Seguridad de la información, ciberseguridad y protección de la privacidad (ISO 27001:2013).',
+        'Organización Internacional de Normalización [ISO]. (2013). <i>Seguridad de la información, ciberseguridad y protección de la privacidad (ISO 27001:2013)</i>.',
       tipo: 'Norma técnica',
-      link: 'https://www.iso.org/standard/54534.html',
+      link: 'https://normaiso27001.es/',
     },
   ],
   glosario: [
@@ -230,23 +230,23 @@ export default {
   referencias: [
     {
       referencia:
-        'Consejo Nacional de Política Económica y Social. (2011). Lineamientos de políticas para Ciberseguridad y Ciberdefensa (CONPES 3701). ',
+        'Consejo Nacional de Política Económica y Social. (2011). <i>Lineamientos de políticas para Ciberseguridad y Ciberdefensa (CONPES 3701)</i>. ',
       link:
         'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3701.pdf',
     },
     {
-      referencia: 'EcuRed. (s. f.). Documentación. ',
+      referencia: 'EcuRed. (s. f.). <i>Documentación</i>. ',
       link: 'https://www.ecured.cu/Documentaci%C3%B3n ',
     },
     {
       referencia:
-        'Ministerio de Hacienda y Administraciones Públicas. (2013). MAGERIT – versión 3.0. Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información. ',
+        'Ministerio de Hacienda y Administraciones Públicas. (2013). MAGERIT – versión 3.0. <i>Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información</i>. ',
       link:
         'https://www.ccn-cert.cni.es/documentos-publicos/1789-magerit-libro-i-metodo/file.html',
     },
     {
       referencia:
-        'Ministerio de Tecnologías de la Información y las Comunicaciones. (2011). Modelo de Seguridad y Privacidad de la Información. ',
+        'Ministerio de Tecnologías de la Información y las Comunicaciones. (2011). <i>Modelo de Seguridad y Privacidad de la Información</i>. ',
       link:
         'https://www.mintic.gov.co/gestionti/615/articles-5482_Modelo_de_Seguridad_Privacidad.pdf',
     },
@@ -256,9 +256,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Maria Camila Garcia Santamaria',
-          cargo: 'Líder del equipo',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
+        },
+        {
+          nombre: 'Liliana Victoria Morales Gualdrón',
+          cargo: 'Responsable de línea de producción',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
       ],
     },
@@ -267,30 +273,37 @@ export default {
       autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor metodológico y pedagógico',
+          cargo: 'Asesoría metodológica y pedagógica',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Pablo Cesar Pardo Ortiz',
-          cargo: 'Experto temático',
+          nombre: 'Joaquín Patiño Cerón',
+          cargo: 'Experto Temático',
           centro:
             'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Fabián Leonardo Correa Díaz',
-          cargo: 'Diseñador instruccional',
-          centro: 'Regional Tolima - Centro agropecuario La Granja',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Centro agropecuario La Granja- Regional Tolima',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Revisor metodológico y pedagógico',
-          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+          cargo: 'Revisor Metodológico y Pedagógico',
+          centro: 'Centro de Diseño y Metrología -Regional Distrito Capital',
         },
         {
-          nombre: 'Darío González',
-          cargo: 'Corrección de estilo',
-          centro: 'Regional Tolima – Centro Agropecuario La Granja',
+          nombre: 'Gloria Lida Alzate Suarez',
+          cargo: 'Adecuación instruccional',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Metodología para la formación virtual',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
       ],
     },
@@ -298,68 +311,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Francisco José Lizcano Reyes',
-          cargo: 'Responsable equipo',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Leyson Fabian Castaño Pérez',
-          cargo: 'Soporte organizacional',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Carlos Julián Ramírez Benítez',
+          nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Diseño web',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
-          cargo: 'Desarrollo front-end',
+          cargo: 'Desarrollo Fullstack',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
-          nombre: 'Ángela María Maldonado Jaime',
-          cargo: 'Producción audiovisual',
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animación y Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
-          nombre: 'Arnulfo Beltrán Mojica',
-          cargo: 'Producción audiovisual',
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animación y Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
-          nombre: 'Camilo Andrés Bolaño Rey',
-          cargo: 'Producción audiovisual',
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animación y Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Gilberto Junior Rodriguez Rodriguez',
-          cargo: 'Producción audiovisual',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Wilson Andrés Arenales Caceres',
-          cargo: 'Producción audiovisual',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Zuleidy Maria Ruiz Torres',
-          cargo: 'Producción audiovisual',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Yenny Patricia Ulloa villamizar',
-          cargo: 'Validación de diseño y contenido',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
       ],
     },
@@ -367,9 +346,23 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: ['Validación y vinculación en plataforma LMS'],
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+        },
+        {
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validación de recursos educativos digitales',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+        },
+        {
+          nombre: 'Leyson Fabián Castaño Pérez',
+          cargo:
+            'Validación de recursos educativos digitales y vinculación LMS',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
       ],
     },

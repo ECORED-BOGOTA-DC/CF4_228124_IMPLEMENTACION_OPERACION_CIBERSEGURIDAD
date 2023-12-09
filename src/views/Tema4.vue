@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 4
       h1 Recomendaciones importantes sobre controles
-    p.mt-5(data-aos="fade-right") Después de identificar el “estado actual” y el “estado deseado” del proceso de seguridad digital, se requiere analizar la brecha actual entre los dos estados, determinando la brecha por cerrar con la implementación de la estrategia.
+    p.mt-5(data-aos="fade-right") Después de identificar el #[b “estado actual”] y el #[b “estado deseado”] del proceso de seguridad digital, se requiere analizar la brecha actual entre los dos estados, determinando la brecha por cerrar con la implementación de la estrategia.
     .h4.mt-5(data-aos="fade-right") Así, se requiere la ejecución de acciones complementarias que optimizarán los controles generados, como las que se sugieren en el siguiente listado: 
     .cajon.color-acento-botones.p-4.mt-5.bg-gris(style="background-color:#FCF5FF;")(data-aos="fade-left")
       ul.lista-ul.mt-3.ml-5

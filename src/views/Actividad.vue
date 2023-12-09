@@ -11,11 +11,11 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Controles de seguridad
-        p.mb-4 Identificar estrategias para ser aplicadas en la seguridad de la información, con el fin de establecer los controles y hojas de ruta a que haya lugar para mejorar el nivel.
+        p.mb-4 Identificar estrategias aplicadas a la seguridad de la información, con el fin de establecer controles y hojas de ruta que mitiguen los riesgos y amenazas.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Arrastrar y soltar.
+              p.fw-bold.mb-0 Relacionar términos.
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar

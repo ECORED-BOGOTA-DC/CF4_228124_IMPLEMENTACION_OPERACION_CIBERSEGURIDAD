@@ -56,28 +56,28 @@
             p Seguridad en el entorno.
           li.d-flex
             i.fas.fa-check.texto-acento-aguamarina.mr-3
-            p Contramedidas
+            p Contramedidas.
           li.d-flex
             i.fas.fa-check.texto-acento-aguamarina.mr-3
-            p Seguridad del personal
+            p Seguridad del personal.
           li.d-flex
             i.fas.fa-check.texto-acento-aguamarina.mr-3
             p Conciencia y formación.
           li.d-flex
             i.fas.fa-check.texto-acento-aguamarina.mr-3
-            p Auditorías
+            p Auditorías.
           li.d-flex
             i.fas.fa-check.texto-acento-aguamarina.mr-3
-            p Cumplimiento
+            p Cumplimiento.
           li.d-flex
             i.fas.fa-check.texto-acento-aguamarina.mr-3
-            p Evaluación de amenazas
+            p Evaluación de amenazas.
           li.d-flex
             i.fas.fa-check.texto-acento-aguamarina.mr-3
-            p Análisis de vulnerabilidades
+            p Análisis de vulnerabilidades.
           li.d-flex
             i.fas.fa-check.texto-acento-aguamarina.mr-3
-            p Evaluación de riesgos 
+            p Evaluación de riesgos.
 
 </template>
 
