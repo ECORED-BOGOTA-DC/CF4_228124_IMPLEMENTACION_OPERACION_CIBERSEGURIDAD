@@ -15,24 +15,21 @@
             .col-md-4.pt-4           
               figure
                 img(src="@/assets/template/tema-2-1.svg")
-            .h3.mt-4.mb-0 Paso 1:
-            .h4.mt-2 Identificación del estado actual
+            .h4.mt-4.mb-0 Paso 1: identificación del estado actual
             p.mb-5.mt-3 Basado en la clasificación de los activos de información, identifica el estado actual de capacidad o madurez del proceso de seguridad de la información de la compañía u organización.
         .col-md-4.px-4.mb-3
           .row.bg-morado-claro.rounded-20.h-100.px-3
             .col-md-4.pt-4           
               figure
                 img(src="@/assets/template/tema-2-2.svg")
-            .h3.mt-4.mb-0 Paso 2:
-            .h4.mt-2 Definición de los objetivos
+            .h3.mt-4.mb-0 Paso 2: definición de los objetivos
             p.mt-3.pb-5 Es clave tener en cuenta objetivos establecidos, ya que esto favorece el trazo e implementación de la estrategia de seguridad de la información, según la ISO/IEC 27001-2013.
         .col-md-4.px-4.mb-3    
           .row.bg-aguamarina.rounded-20.h-100.px-3    
             .col-md-4.pt-4           
               figure
                 img(src="@/assets/template/tema-2-3.svg")
-            .h3.mt-4.mb-0 Paso 3:
-            .h4.mt-2 Determinación del estado deseado
+            .h3.mt-4.mb-0 Paso 3: determinación del estado deseado
             p.mb-5.mt-3 Tener en cuenta el nivel del estado que se desea alcanzar, por medio de llevar a cabo la estrategia de seguridad digital en la organización, partiendo del estado o nivel actual.
       div.row
         .col-md-4.px-4.mb-3
@@ -40,21 +37,19 @@
             .col-md-4.pt-4           
               figure
                 img(src="@/assets/template/tema-2-4.svg")
-            .h3.mt-4.mb-0 Paso 4: 
-            .h4.mt-2 Determinación del nivel de riesgo aceptable
+            .h3.mt-4.mb-0 Paso 4: determinación del nivel de riesgo aceptable
             p.mt-3.pb-5 Definir el nivel de riesgo aceptable de la seguridad digital que se tendrá en cuenta en la estrategia, con base en la necesidad de riesgo de la organización. 
         .col-md-4.px-4.mb-3    
           .row.bg-aguamarina.rounded-20.h-100.px-3    
             .col-md-4.pt-4           
               figure
                 img(src="@/assets/template/tema-2-5.svg")
-            .h3.mt-4.mb-0 Paso 5: 
-            .h4.mt-2 Definición y ejecución del plan de acción
+            .h3.mt-4.mb-0 Paso 5: definición y ejecución del plan de acción
             p.mb-5.mt-3 Fijar la hoja de ruta para lograr el estado deseado de la estrategia, teniendo en cuenta personas, tecnologías y procesos, entre otros recursos.
     .h4.mt-5.pt-5(data-aos="fade-left")  Configuración de pasos para el diseño de controles
       .row.mt-4
         .col-6
-          p Cada paso requerido para lograr el diseño de los controles de seguridad cuenta con una triada de elementos constitutivos: 
+          p Cada paso requerido para lograr el diseño de los controles de seguridad cuenta con una tríada de elementos constitutivos: 
     figure.mt-2(data-aos="fade-down")
       img(src="@/assets/template/tema-2-6.png")
     Separador
@@ -66,7 +61,7 @@
         :style="{'background-image': `url(${require('@/assets/template/tema-2-7.png')})`}"
       )
       .bloque-texto-g__texto.w-72.p-4
-        p.mb-0 Se entiende como una entrada aquel o aquellos elementos ya existentes que serán de gran utilidad para instalar el paso. Se trata de elementos que ya tiene la organización en su haber y en su quehacer y que favorecen la instauración de cualquiera de los cinco pasos para cumplir con el diseño del plan de controles de seguridad.
+        p.mb-0 Se entiende como una entrada aquel o aquellos elementos ya existentes que serán de gran utilidad para instalar el paso. Se trata de elementos que ya tiene la organización en su haber y en su quehacer y que #[b favorecen la instauración de cualquiera de los cinco pasos] para cumplir con el diseño del plan de controles de seguridad.
     p.mt-5(data-aos="fade-down") En esta misma línea, están las #[strong salidas]. Cuando se habla de salidas, se está haciendo referencia a las herramientas de registro o de documentación que se tendrán luego de haber analizado, ajustado o intervenido los documentos o registros ya existentes relacionados con objetivos, planes de acción, estados de ciberseguridad de la compañía o clasificación de los activos de información, entre otros. 
     .row.mt-5.m-auto(style="place-content:center;")(data-aos="fade-left")
       .col-md-4.px-4.mb-3
@@ -79,7 +74,7 @@
     #t_2_2
     .titulo-segundo
       .h2 2.2  Actividades
-    p.mt-5(data-aos="fade-right") Los pasos que se siguen para el diseño de los controles de seguridad, además de estar estructurados y orientados por las entradas y las salidas, requieren el cumplimiento de algunas acciones o actividades, según el paso, que darán sentido, cumplimiento y efectividad a cada paso y, en consecuencia, a los controles.
+    p.mt-5(data-aos="fade-right") Los pasos que se siguen para el diseño de los controles de seguridad, además de estar estructurados y orientados por las #[b entradas] y las #[b salidas], requieren el cumplimiento de algunas acciones o actividades, según el paso, que darán sentido, cumplimiento y efectividad a cada paso y, en consecuencia, a los controles.
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mt-5(data-aos="fade-down")
       .bloque-texto-g__img.w-45(
         :style="{'background-image': `url(${require('@/assets/template/tema-2-8.png')})`}"
@@ -99,25 +94,22 @@
     .h4.my-5(data-aos="fade-right") A continuación, la estructuración de este primer paso, con sus respectivas entradas, salidas y actividades:
     TabsB.color-acento-contenido.mt-4(data-aos="fade-down")
       .py-4.py-md-5(titulo="Entradas" :icono="require('@/assets/template/tema-2-10.svg')")
-        .row.p-4
+        .row.align-items-center.p-4
           .col-md-8.mb-3
-            .h3 Entradas
             p La identificación del estado actual cuenta con entradas, como los inventarios de los activos de información y/o la metodología evaluativa y de categorización de tales activos de información.
           .col-md-4
             figure.text-center
               img(src="@/assets/curso/tema2/1.svg" style="max-width:200px;display:inline;")
       .py-4.py-md-5(titulo="Salidas" :icono="require('@/assets/template/tema-2-11.svg')")
-        .row.p-4
+        .row.align-items-center.p-4
           .col-md-8.mb-3
-            .h3 Salidas
             p Algunas salidas de este paso son los activos de información ya categorizados o clasificados, incluyendo elementos como criticidad y sensibilidad, también la meta implantada de seguridad digital o el estado presente de la seguridad informática en la empresa u organización.
           .col-md-4
             figure.text-center
               img(src="@/assets/curso/tema2/2.svg" style="max-width:200px;display:inline;")
       .py-4.py-md-5(titulo="Algunas actividades" :icono="require('@/assets/template/tema-2-12.svg')")
-        .row.p-4
+        .row.align-items-center.p-4
           .col-md-8.mb-3
-            .h3 Algunas actividades
             ul.lista-ul.mt-5
               li.d-flex
                 i.fas.fa-check
@@ -140,16 +132,15 @@
       .h2 2.4 Paso dos: definición de los objetivos
     .row.mt-5
       .col-12.col-lg-5.align-self-center(data-aos="fade-right")
-       p.mt-3.cuadro-morado.py-4 Se trata del segundo de los pasos para cumplir con el diseño de los controles de seguridad dentro de la organización y, con él, se han de tener en cuenta los objetivos establecidos para trazar e implementar la estrategia de seguridad de la información, con el debido cumplimiento de los criterios establecidos por la normativa. No olvide que la norma vigente y sobre la cual estamos haciendo énfasis en este componente formativo es la ISO/IEC 27001-2013.
+       p.mt-3.cuadro-morado.py-4 Se trata del segundo de los pasos para cumplir con el diseño de los controles de seguridad dentro de la organización y, con él, se han de tener en cuenta los objetivos establecidos para trazar e implementar la estrategia de seguridad de la información, con el debido cumplimiento de los criterios establecidos por la normativa. No olvide que la norma vigente y sobre la cual estamos haciendo énfasis en este componente formativo es la #[b ISO/IEC 27001-2013].
       .col-4.col-lg-6.offset-3.offset-lg-1(data-aos="fade-left")
         figure
           img(src="@/assets/template/tema-2-13.png", alt="Texto que describa la imagen")
     .h4.my-5(data-aos="fade-right") Profundice en las entradas, salidas y actividades de este segundo paso en el recurso que, a continuación, se presenta:
     TabsB.color-acento-contenido(data-aos="fade-left")
       .py-4.py-md-5(titulo="Entradas" :icono="require('@/assets/template/tema-2-10.svg')")
-        .row.p-4
+        .row.align-items-center.p-4
           .col-md-8.mb-3
-            .h3 Entradas
             p Algunas entradas de este paso son: el plan estratégico de la compañía, el inventario de los activos de información ya categorizados, las metas establecidas con respecto a la seguridad digital,  la determinación de negocio y/o medios tecnológicos que afectan el logro de objetivos,  el compendio de normas y estatutos o leyes, decretos, etc., que regulan la clasificación de información.
             a.boton.color-acento-botones.text-white.mt-5.indicador__container(@click="modal1 = true")
               span Más entradas de este paso
@@ -166,27 +157,28 @@
             figure.text-center
               img(src="@/assets/curso/tema2/5.svg" style="max-width:200px;display:inline;")
       .py-4.py-md-5(titulo="Salidas" :icono="require('@/assets/template/tema-2-11.svg')")
-        .row.p-4
+        .row.align-items-center.p-4
           .col-md-8.mb-3
-            .h3 Salidas
             p.mt-5 En este caso, las salidas más destacadas son los objetivos establecidos de la estrategia misma.
           .col-md-4
             figure.text-center
               img(src="@/assets/curso/tema2/6.svg" style="max-width:200px;display:inline;")
-      .py-4.py-md-5(titulo="Actividades" :icono="require('@/assets/template/tema-2-12.svg')")
-        .row.p-4
+      .py-4.py-md-5(titulo="Algunas actividades" :icono="require('@/assets/template/tema-2-12.svg')")
+        .row.align-items-center.p-4
           .col-md-8.mb-3
-            .h3 Actividades
             ul.lista-ul
               li.d-flex
                 i.fas.fa-check
-                | Determinar los objetivos de alineación estratégica: el cumplimiento de estos permite ajustar los objetivos de seguridad informática con los de la organización.
+                | 
+                p.mb-0 Determinar los objetivos de alineación estratégica: el cumplimiento de estos permite ajustar los objetivos de seguridad informática con los de la organización.
               li.d-flex
                 i.fas.fa-check
-                | Determinar los objetivos de gestión de riesgos: el logro de estos objetivos es la implementación de medidas para mitigar riesgos y reducir el posible impacto.
+                | 
+                p.mb-0 Determinar los objetivos de gestión de riesgos: el logro de estos objetivos es la implementación de medidas para mitigar riesgos y reducir el posible impacto.
               li.d-flex
                 i.fas.fa-check
-                | Determinar los objetivos de entrega de valor: su función es permitir la optimización de las inversiones en cuanto a la seguridad informática, apoyando los objetivos de la organización.
+                | 
+                p.mb-0 Determinar los objetivos de entrega de valor: su función es permitir la optimización de las inversiones en cuanto a la seguridad informática, apoyando los objetivos de la organización.
             a.boton.color-acento-botones.text-white.mt-5.indicador__container(@click="modal2 = true")
               span Otras actividades de suma importancia
               .indicador--click(v-if="mostrarIndicador")
@@ -215,27 +207,27 @@
       .py-4.py-md-5(titulo="Entradas" :icono="require('@/assets/template/tema-2-10.svg')")
         .row.p-4
           .col-md-12
-            .h3 Entradas
             p Algunas entradas para la determinación del estado deseado son: los objetivos de la estrategia de seguridad digital ya establecidos, el estado actual del proceso de seguridad digital y los estándares y/o mejores prácticas, como, por ejemplo, #[strong la ISO 27001:2013 y la ISO 27002:2013].
       .py-4.py-md-5(titulo="Salidas" :icono="require('@/assets/template/tema-2-11.svg')")
         .row.p-4
           .col-md-12
-            .h3 Salidas
             p En la determinación del estado deseado, una salida necesaria es, justamente, la mirada al estado deseado. Ha de ser una herramienta organizada y en correspondencia lógica con el actual.
       .py-4.py-md-5(titulo="Algunas actividades" :icono="require('@/assets/template/tema-2-12.svg')")
         .row.p-4
           .col-md-12
-            .h3 Algunas actividades
             ul.lista-ul
               li.d-flex
                 i.fas.fa-check
-                | Determinar  el estado deseado del proceso de seguridad digital dentro de la organización, en términos cualitativos de atributos, resultados y características.
+                | 
+                p.mb-0 #[b Determinar] el estado deseado del proceso de seguridad digital dentro de la organización, en términos cualitativos de atributos, resultados y características.
               li.d-flex
                 i.fas.fa-check
-                | Reconocer el nivel de madurez deseado.
+                | 
+                p.mb-0 #[b Reconocer] el nivel de madurez deseado.
               li.d-flex
                 i.fas.fa-check
-                | Definir, de la mano de la alta gerencia de la organización, el nivel de madurez deseado, determinando el proceso para que cumpla con sus objetivos y satisfaga las necesidades de la organización.
+                | 
+                p.mb-0 #[b Definir], de la mano de la alta gerencia de la organización, el nivel de madurez deseado, determinando el proceso para que cumpla con sus objetivos y satisfaga las necesidades de la organización.
     .row.mt-5(data-aos="fade-right")
       .col-10.offset-1
         .tarjeta.color-primario.p-3.mb-5
@@ -246,15 +238,21 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.py-3
                   h3.mb-1 Amplía tus conocimientos
-                  p.text-small Para ampliar su saber sobre otros estándares que contribuyen en la determinación del estado deseado, se recomienda revisar el siguiente material: CMMI, COBIT, ITIL. ISO/IEC 20000 y COSO, el cual puede encontrar en
-    .row(data-aos="fade-down")
-      .col-7.offset-1.mt-3
+                  p.text-small Para ampliar su saber sobre otros estándares que contribuyen en la determinación del estado deseado, se recomienda revisar el siguiente material: CMMI, COBIT, ITIL. ISO/IEC 20000 y COSO, el cual puede encontrar en:
+    .row.justify-content-center(data-aos="fade-down")
+      .col-7.mt-3
         a.anexo.mb-4.mb-lg-0(href="https://www.emagister.com/blog/que-es-itil/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link-rojo.svg")
           .anexo__texto
-            p  https://www.emagister.com/blog/que-es-itil/ 
-      .col-7.offset-1.mt-3
+            p https://www.globalbit.co/2019/07/22/modelo-cmmi-calidad-y-buenas-practicas-en-el-desarrollo-de-software/
+      .col-7.mt-3
+        a.anexo.mb-4.mb-lg-0(href="https://www.emagister.com/blog/que-es-itil/" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link-rojo.svg")
+          .anexo__texto
+            p https://www.emagister.com/blog/que-es-itil/ 
+      .col-7.mt-3
         a.anexo.mb-4.mb-lg-0(href="https://www.globalsuitesolutions.com/es/que-es-modelo-coso/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link-rojo.svg")
@@ -274,7 +272,6 @@
       .py-4.py-md-5(titulo="Entradas" :icono="require('@/assets/template/tema-2-10.svg')")
         .row.p-4
           .col-md-12
-            .h3 Entradas
             ul.lista-ul
               li.d-flex
                 i.fas.fa-check
@@ -294,7 +291,6 @@
       .py-4.py-md-5(titulo="Salidas" :icono="require('@/assets/template/tema-2-11.svg')")
         .row.p-4
           .col-md-12
-            .h3 Salidas
             ul.lista-ul
               li.d-flex
                 i.fas.fa-check
@@ -304,11 +300,10 @@
                 | Mapa de riesgos de TI.
               li.d-flex
                 i.fas.fa-check
-                | Estrategia actualizada y/o ajustada de la seguridad de la Información.
+                | Estrategia actualizada y/o ajustada de la seguridad de la información.
       .py-4.py-md-5(titulo="Actividades" :icono="require('@/assets/template/tema-2-12.svg')")
         .row.p-4
           .col-md-12
-            .h3 Actividades
             ul.lista-ul
               li.d-flex
                 i.fas.fa-check
