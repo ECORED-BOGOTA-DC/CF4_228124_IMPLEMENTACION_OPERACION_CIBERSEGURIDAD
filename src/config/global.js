@@ -275,33 +275,38 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesoría metodológica y pedagógica',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Joaquín Patiño Cerón',
+          nombre: 'Pablo Cesar Pardo Ortiz',
           cargo: 'Experto Temático',
           centro:
-            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
+            'Regional Cauca - Centro de Teleinformática y Producción Industrial',
         },
         {
           nombre: 'Fabián Leonardo Correa Díaz',
           cargo: 'Diseñador Instruccional',
-          centro: 'Centro agropecuario La Granja- Regional Tolima',
+          centro: 'Regional Tolima - Centro agropecuario La Granja',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Revisor Metodológico y Pedagógico',
-          centro: 'Centro de Diseño y Metrología -Regional Distrito Capital',
+          cargo: 'Asesoría metodológica y pedagógica',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Gloria Lida Alzate Suarez',
-          cargo: 'Adecuación instruccional',
+          nombre: 'Darío González',
+          cargo: 'Corrección de estilo',
+          centro: 'Regional Tolima - Centro agropecuario La Granja',
+        },
+        {
+          nombre: 'Gloria Amparo López Escudero',
+          cargo: 'Adecuación instruccional - 2023',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Metodología para la formación virtual',
+          cargo: 'Metodología para la formación virtual - 2023',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
@@ -311,34 +316,81 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Yuly Andrea Rey Quiñonez',
+          nombre: 'Francisco José Lizcano Reyes',
+          cargo: 'Responsable del equipo',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Leyson Fabián Castaño Pérez',
+          cargo: 'Soporte organizacional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Carlos Julián Ramírez Benítez',
           cargo: 'Diseño web',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
-          cargo: 'Desarrollo Fullstack',
+          cargo: 'Desarrollo front-end',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animación y Producción audiovisual',
+          nombre: 'Ángela María Maldonado Jaime',
+          cargo: 'Producción audiovisual',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Lady Adriana Ariza Luque',
-          cargo: 'Animación y Producción audiovisual',
+          nombre: 'Arnulfo Beltrán Mojica',
+          cargo: 'Producción audiovisual',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Laura Gisselle Murcia Pardo',
-          cargo: 'Animación y Producción audiovisual',
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Producción audiovisual',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Gilberto Junior Rodriguez Rodriguez',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Caceres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Zuleidy Maria Ruiz Torres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Yenny Patricia Ulloa Villamizar',
+          cargo: 'Validación de diseño y contenido',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Jhon Jairo Urueta Álvarez',
+          cargo: 'Desarrollo fullstack - 2023',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Manuel Felipe Echavarría Orozco',
+          cargo: 'Desarrollo fullstack - 2023',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },

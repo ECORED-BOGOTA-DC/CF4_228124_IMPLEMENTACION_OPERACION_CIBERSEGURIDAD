@@ -15,7 +15,7 @@
             .col-md-4.pt-4           
               figure
                 img(src="@/assets/template/tema-2-1.svg")
-            .h4.mt-4.mb-0 Paso 1: identificación del estado actual
+            .h3.mt-4.mb-0 Paso 1: identificación del estado actual
             p.mb-5.mt-3 Basado en la clasificación de los activos de información, identifica el estado actual de capacidad o madurez del proceso de seguridad de la información de la compañía u organización.
         .col-md-4.px-4.mb-3
           .row.bg-morado-claro.rounded-20.h-100.px-3
@@ -212,7 +212,7 @@
         .row.p-4
           .col-md-12
             p En la determinación del estado deseado, una salida necesaria es, justamente, la mirada al estado deseado. Ha de ser una herramienta organizada y en correspondencia lógica con el actual.
-      .py-4.py-md-5(titulo="Algunas actividades" :icono="require('@/assets/template/tema-2-12.svg')")
+      .py-4.py-md-5(titulo="Actividades" :icono="require('@/assets/template/tema-2-12.svg')")
         .row.p-4
           .col-md-12
             ul.lista-ul
