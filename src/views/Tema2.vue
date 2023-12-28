@@ -241,11 +241,11 @@
                   p.text-small Para ampliar su saber sobre otros estándares que contribuyen en la determinación del estado deseado, se recomienda revisar el siguiente material: CMMI, COBIT, ITIL. ISO/IEC 20000 y COSO, el cual puede encontrar en:
     .row.justify-content-center(data-aos="fade-down")
       .col-7.mt-3
-        a.anexo.mb-4.mb-lg-0(href="https://www.emagister.com/blog/que-es-itil/" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.globalbit.co/2019/07/22/modelo-cmmi-calidad-y-buenas-practicas-en-el-desarrollo-de-software/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link-rojo.svg")
           .anexo__texto
-            p https://www.globalbit.co/2019/07/22/modelo-cmmi-calidad-y-buenas-practicas-en-el-desarrollo-de-software/
+            p https://www.globalbit.co/2019/07/22/modelo-cmmi-calidad-y-buenas-practicasen-el-desarrollo-de-software/
       .col-7.mt-3
         a.anexo.mb-4.mb-lg-0(href="https://www.emagister.com/blog/que-es-itil/" target="_blank")
           .anexo__icono
